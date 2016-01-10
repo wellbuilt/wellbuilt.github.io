@@ -1,0 +1,20 @@
+body {
+	background-color: #A10B05;
+	text-align: left;
+	font-family: Helvetica; 
+
+}
+h1 {
+	font-size: 40px;
+	font-weight: bold;
+	color: #000000;
+	text-transform: uppercase;
+}
+p, li {
+	color: white;
+	font-size: 22px;
+}
+hr {
+	width: 1500px;
+
+}
