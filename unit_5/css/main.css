@@ -1,0 +1,39 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald);
+@import url(https://fonts.googleapis.com/css?family=Alegreya);
+
+body {
+	background-color: white;
+	text-align: center;
+    font-family: 'Alegreya', serif;
+}
+h1 {
+	font-size: 60px;
+	font-weight: bold;
+	color: #A10B05;
+	text-transform: uppercase;
+	font-family: 'Oswald', sans-serif;
+	text-align: center;
+}
+
+h2 {
+	color: black;
+	font-size: 22px;
+	margin: 1em;
+}
+
+p {
+	color: black;
+	font-size: 18px;
+	margin: 4em;
+	text-align: center;
+}
+li {
+	color: black;
+	font-size: 18px;
+	margin: 1em;
+	text-align: center;
+}
+hr {
+	width: 800px;
+
+}
