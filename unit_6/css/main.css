@@ -47,6 +47,20 @@ nav {
 	border: 1px black solid;
 	padding: 20px;
 }
+
+a {
+	background-color: grey;
+	text-decoration: none;
+	color: white;
+	float: left;
+	display: block;
+	padding: 15px;
+}
+
+a:hover {
+	background-color: red;
+}
+
 aside {
 	background-color: #FFC675;
 	border: 1px black solid;
@@ -98,5 +112,5 @@ section {
 	content: " ";
 	clear: both;
 	height: 0;
-	
+
 }
