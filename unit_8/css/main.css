@@ -38,18 +38,18 @@ hr {
 
 }
 header {
-	background-color: #FFED74;
+	background-color: white;
 	border: 1px black solid;
 	padding: 20px;
 }
 nav {
-	background-color: #E8C66A;
+	background-color: #B1B0AB;
 	border: 1px black solid;
 	padding: 20px;
 }
 
 a {
-	background-color: grey;
+	background-color: #B1B0AB;
 	text-decoration: none;
 	color: white;
 	float: left;
@@ -58,33 +58,33 @@ a {
 }
 
 a:hover {
-	background-color: red;
+	background-color: #A10B05;
 }
 
 aside {
-	background-color: #FFC675;
+	background-color: white;
 	border: 1px black solid;
 	padding: 20px;
 }
 article {
-	background-color: #E89C6C;
+	background-color: white;
 	border: 1px black solid;
 	padding: 20px;
 }
 footer {
-	background-color: #FF957E;
+	background-color: #A10B05;
 	border: 1px black solid;
 	padding: 20px;
 }
 
 #two_column {
-	background-color: #FFB7CF;
+	background-color: white;
 	border: 1px black solid;
 	padding: 20px;
 }
 
 #left {
-	background-color: violet;
+	background-color: #A10B05;
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
@@ -92,7 +92,7 @@ footer {
 }
 
 #right {
-	background-color: pink;
+	background-color: #A10B05;
 	border: 1px black solid;
 	padding: 20px;
 	float: right;
@@ -100,7 +100,7 @@ footer {
 }
 
 section {
-	background-color: #FFE2B8;
+	background-color: white;
 	border: 1px black solid;
 	padding: 20px;
 }
